@@ -25,10 +25,9 @@ Os agentes foram desenhados para entregar resultados reais em cenários prático
 ├── prompts/
 │   ├── agente-analise-dados.txt
 │   ├── agente-analise-curriculos.txt
-│
 └── docs/
-    ├── instrucoes-de-uso.md
-    ├── exemplos-de-interacao.md
+├── instrucoes-de-uso.md
+└── exemplos-de-interacao.md
 
 # 💬 Exemplos de Interação
 
