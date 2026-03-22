@@ -18,6 +18,7 @@ Os agentes foram desenhados para entregar resultados reais em cenários prático
 ---
 
 ## 📁 Estrutura do Repositório
+```
 /
 ├── README.md
 ├── assets/
@@ -28,6 +29,7 @@ Os agentes foram desenhados para entregar resultados reais em cenários prático
 └── docs/
 ├── instrucoes-de-uso.md
 └── exemplos-de-interacao.md
+```
 
 # 💬 Exemplos de Interação
 
